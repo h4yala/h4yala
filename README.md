@@ -90,6 +90,7 @@ Sou apaixonada por tecnologia e pela praticidade que ela nos permite ter. Além 
     align="left"
     alt="Github Stats"
     height="200"
+    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=h4yala&show_icons=true&theme=date_night&include_all_commits=true&locale=pt-br"
 />
 
