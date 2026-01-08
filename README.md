@@ -38,6 +38,25 @@ Sou apaixonada por tecnologia e pela praticidade que ela nos permite ter. Além 
 
 <img 
     align="left"
+    alt="php"
+    title="php"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" 
+/>
+
+<img 
+    align="left"
+    alt="laravel"
+    title="laravel"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+          
+
+<img 
+    align="left"
     alt="HTML"
     title="HTML"
     width="30px"
@@ -80,6 +99,11 @@ Sou apaixonada por tecnologia e pela praticidade que ela nos permite ter. Além 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
 />
+
+
+
+
+          
 
 <br/>
 <br/>
