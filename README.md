@@ -99,11 +99,7 @@ Sou apaixonada por tecnologia e pela praticidade que ela nos permite ter. Além 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
 />
-
-
-
-
-          
+    
 
 <br/>
 <br/>
@@ -111,6 +107,6 @@ Sou apaixonada por tecnologia e pela praticidade que ela nos permite ter. Além 
 ### 📊 Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=h4yala&show_icons=true&theme=date_night&include_all_commits=true&locale=pt-br" alt="Github Stats" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4yala&theme=date_night&layout=compact&custom_title=Tecnologias&lang_count=10" alt="Github Tecs" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=h4yala&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Github Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4yala&theme=tokyonight&layout=compact&custom_title=Tecnologias&lang_count=10" alt="Github Tecs" height="200" />
 </p>
