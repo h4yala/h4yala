@@ -106,9 +106,8 @@ Sou apaixonada por tecnologia e pela praticidade que ela nos permite ter. Além 
 
 ### 📊 Estatísticas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=h4yala&theme=tokyonight&include_all_commits=true" alt="Github Stats" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4yala&theme=tokyonight" alt="Github Tecs" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=h4yala&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Github Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4yala&theme=tokyonight&layout=compact&custom_title=Tecnologias&lang_count=10" alt="Github Tecs" height="200" />
 </p>
+
