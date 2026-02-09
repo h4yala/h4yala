@@ -104,10 +104,3 @@ Sou apaixonada por tecnologia e pela praticidade que ela nos permite ter. Além 
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=h4yala&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Github Stats" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4yala&theme=tokyonight&layout=compact&custom_title=Tecnologias&lang_count=10" alt="Github Tecs" height="200" />
-</p>
-
