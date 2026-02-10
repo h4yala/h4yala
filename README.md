@@ -2,10 +2,10 @@
 
 **`Desenvolvedora FullStack`**
 
-Oie! Me chamo Hayala Hora, tenho 23 anos e sou natural de Minas Gerais. 
+Oie! Me chamo Hayala Hora, tenho 24 anos e sou natural de Minas Gerais. 
 Estudei a vida toda em escola pública e durante o ensino médio fiz um curso no SENAI de Aprendizagem Industrial em Processos Logísticos. 
 Fiz um semestre e meio de Engenharia da Computação na UEMG-Divinópolis durante o ano de 2024 e atualmente estou no 3° semestre de Engenharia de Software na UNINTER. 
-Sou apaixonada por tecnologia e pela praticidade que ela nos permite ter. Além da faculdade, eu estudo para futuramente ser uma profissional na área de cibersegurança.
+Sou apaixonada por tecnologia e pela praticidade que ela nos permite ter. Além da faculdade, eu tenho experiência no setor financeiro-contábil e atualmente estudo para ser uma profissional na área de cibersegurança.
 
 <p align="left"> 
       <a href="https://github.com/h4yala?tab=followers">
